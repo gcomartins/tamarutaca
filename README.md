@@ -6,6 +6,8 @@
 
 Este repositório tem a finalidade de centralizar estudos de Offensive Cybersecurity.
 
-## Ferramentas de Reconhecimento
+## Fundamentos
 
-## Ferramentas de Varredura
+Fundamentos de Redes
+
+## Ferramentas de Reconhecimento
