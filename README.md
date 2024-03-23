@@ -69,8 +69,13 @@ Este repositório tem a finalidade de centralizar estudos de Offensive Cybersecu
     <details style="margin: 20px">
   <summary >Mascaras de rede</summary>
     A mascara de uma subrede indica a classe que o host se encontra:
-    255.0.0.0
-    255.255.0.0
+    
+| Máscara de Sub-rede | Classe | Notação CIDR |
+|---------------------|--------|--------------|
+| 255.0.0.0           | Classe A | /8 (8 bits) |
+| 255.255.0.0         | Classe B | /16 (16 bits) |
+| 255.255.255.0       | Classe C | /24 (24 bits) |
+
   </details>
 </details>
 
